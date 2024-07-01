@@ -1,6 +1,8 @@
 # SubSort
 
-Subsort is a Chrome Extension designed to help users effectively manage their YouTube subscriptions.
+![图片alt](图片链接 "SubSort")
+
+SubSort is a Chrome Extension designed to help users effectively manage their YouTube subscriptions.
 
 Have you ever been frustrated because you wanted to watch videos from specific YouTube channels you're subscribed to?
 
