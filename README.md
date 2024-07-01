@@ -1,6 +1,6 @@
 # SubSort
 
-![图片alt](图片链接 "SubSort")
+![Logo](https://github.com/Hui-Wagner/SubSort/blob/main/Subsort%20Logo.png?raw=true) "SubSort")
 
 SubSort is a Chrome Extension designed to help users effectively manage their YouTube subscriptions.
 
